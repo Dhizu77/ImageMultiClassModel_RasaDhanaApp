@@ -55,6 +55,7 @@ dataset/
 ---
 
 ## Installation Steps
+### Python Compatibility: Ensure Python >= 3.11
 1. Clone this repository:
    ```bash
    git clone https://github.com/Dhizu77/ImageMultiClassModel_RasaDhanaApp.git
