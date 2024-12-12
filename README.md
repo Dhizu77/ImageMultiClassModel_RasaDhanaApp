@@ -18,7 +18,7 @@ This project aims to develop a machine learning model based on **TensorFlow**, u
 ---
 
 ## Dataset Information
-
+Dataset link : https://drive.google.com/file/d/1kJMKErxsV_buKYWgkLEP7njqdfUFTqcv/view
 The dataset consists of **946 images**, organized into 10 subfolders. Each subfolder represents a class label and contains `.jpg` images.
 
 - **Total Data**: 946 images.
